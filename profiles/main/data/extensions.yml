@@ -1,0 +1,22 @@
+disabled:
+  - id: nonoroazoro.syncing
+    uuid: e7db78ad-ac9f-4919-99bb-3627e07b6d1f
+enabled:
+  - id: adpyke.codesnap
+    uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-vscode.live-server
+    uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
+  - id: oderwat.indent-rainbow
+    uuid: eaa2127d-cb69-4ab9-8505-a60c9ee5f28b
+  - id: piousdeer.adwaita-theme
+    uuid: 93fbc635-4a9a-4ff1-88ba-bf017484c602
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: ritwickdey.LiveServer
+    uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+  - id: zokugun.cron-tasks
+    uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
