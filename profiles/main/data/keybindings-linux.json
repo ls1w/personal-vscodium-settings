@@ -6,5 +6,9 @@
     {
         "key": "ctrl+alt+u",
         "command": "syncSettings.review"
+    },
+    {
+        "key": "ctrl+shift+'",
+        "command": "openInIntegratedTerminal"
     }
 ]

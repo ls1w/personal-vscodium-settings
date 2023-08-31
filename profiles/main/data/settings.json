@@ -1,6 +1,5 @@
 {
     "window.titleBarStyle": "custom",
-    "window.menuBarVisibility": "compact",
     "terminal.integrated.fontFamily": "MesloLGS NF, Regular",
     "terminal.integrated.profiles.linux": {
         "bash": {
@@ -16,7 +15,6 @@
         }
     },
     "terminal.integrated.defaultProfile.linux": "zsh",
-    "workbench.colorTheme": "Adwaita Dark",
     "workbench.productIconTheme": "adwaita",
     "workbench.iconTheme": "material-icon-theme",
     "syncSettings.confirmSync": true,
@@ -26,9 +24,12 @@
     "workbench.preferredDarkColorTheme": "Adwaita Dark",
     "workbench.preferredLightColorTheme": "Adwaita Light",
     "workbench.colorCustomizations": {
-        "statusBar.background": "#005f5f",
-        "statusBar.noFolderBackground": "#005f5f",
-        "statusBar.debuggingBackground": "#005f5f"
+        "statusBar.background": "#5f0000",
+        "statusBar.noFolderBackground": "#5f0000",
+        "statusBar.debuggingBackground": "#5f0000"
     },
     "syncSettings.hostname": "ls1w",
+    "editor.accessibilitySupport": "off",
+    "window.menuBarVisibility": "compact",
+    "workbench.colorTheme": "Adwaita Dark",
 }
