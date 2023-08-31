@@ -33,4 +33,11 @@
     "window.menuBarVisibility": "compact",
     "workbench.colorTheme": "Adwaita Dark",
     "window.commandCenter": true,
+    "terminal.integrated.localEchoExcludePrograms": [
+        "nvim",
+        "vi",
+        "nano",
+        "tmux",
+        "vim"
+    ],
 }
