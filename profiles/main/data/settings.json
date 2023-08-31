@@ -32,4 +32,5 @@
     "editor.accessibilitySupport": "off",
     "window.menuBarVisibility": "compact",
     "workbench.colorTheme": "Adwaita Dark",
+    "window.commandCenter": true,
 }
